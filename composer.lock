@@ -6700,6 +6700,7 @@
         },
         {
             "name": "phpunit/phpunit",
+<<<<<<< HEAD
             "version": "10.5.7",
             "source": {
                 "type": "git",
@@ -6710,6 +6711,18 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/e5c5b397a95cb0db013270a985726fcae93e61b8",
                 "reference": "e5c5b397a95cb0db013270a985726fcae93e61b8",
+=======
+            "version": "10.5.8",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/sebastianbergmann/phpunit.git",
+                "reference": "08f4fa74d5fbfff1ef22abffee47aaedcaea227e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/08f4fa74d5fbfff1ef22abffee47aaedcaea227e",
+                "reference": "08f4fa74d5fbfff1ef22abffee47aaedcaea227e",
+>>>>>>> ba0560e385fee1fb48509a7f18d7d602ca4a64bf
                 "shasum": ""
             },
             "require": {
@@ -6781,7 +6794,11 @@
             "support": {
                 "issues": "https://github.com/sebastianbergmann/phpunit/issues",
                 "security": "https://github.com/sebastianbergmann/phpunit/security/policy",
+<<<<<<< HEAD
                 "source": "https://github.com/sebastianbergmann/phpunit/tree/10.5.7"
+=======
+                "source": "https://github.com/sebastianbergmann/phpunit/tree/10.5.8"
+>>>>>>> ba0560e385fee1fb48509a7f18d7d602ca4a64bf
             },
             "funding": [
                 {
@@ -6797,7 +6814,11 @@
                     "type": "tidelift"
                 }
             ],
+<<<<<<< HEAD
             "time": "2024-01-14T16:40:30+00:00"
+=======
+            "time": "2024-01-19T07:07:27+00:00"
+>>>>>>> ba0560e385fee1fb48509a7f18d7d602ca4a64bf
         },
         {
             "name": "sebastian/cli-parser",
@@ -8152,5 +8173,9 @@
         "php": "^8.1"
     },
     "platform-dev": [],
+<<<<<<< HEAD
     "plugin-api-version": "2.6.0"
+=======
+    "plugin-api-version": "2.3.0"
+>>>>>>> ba0560e385fee1fb48509a7f18d7d602ca4a64bf
 }
