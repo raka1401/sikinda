@@ -10,5 +10,4 @@
 <h1>isi content</h1><br>
 <h1>isi content</h1><br>
 <h1>isi content</h1><br>
-<h1>isi content</h1><br>
 @endsection
